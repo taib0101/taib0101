@@ -27,3 +27,5 @@
 [![](https://visitcount.itsvg.in/api?id=taib0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github.com/taib0101/taib0101/tree/output/snake.svg)
+
+<img src="https://github.com/taib0101/taib0101/tree/output/snake.svg" alt="Snake animation" />
