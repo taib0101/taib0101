@@ -52,4 +52,4 @@
 
 <!-- ![](https://github.com/taib0101/taib0101/blob/output/snake.svg) -->
 
-<img src="https://github.com/taib0101/taib0101/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/taib0101/taib0101/blob/output/github-snake.svg" alt="Snake animation" />
