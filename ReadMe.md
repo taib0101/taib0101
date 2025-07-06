@@ -10,7 +10,7 @@
         Hi , I'm a Software Engineer and Full-Stack Developer
     </b>
 </p>
-<p>A passionate backend focussed full-stack developer and I build robust and scalable backend solutions.</p>
+<p>A passionate backend focused full-stack developer and I build robust and scalable backend solutions.</p>
 
 
 
